@@ -1,4 +1,4 @@
-# projeto-stage02 - desafio
+# projeto-stage2 - desafio
 **Curso Explorer - Rocketseat**
 
 **Desafio Avançado - Recriando layout**
