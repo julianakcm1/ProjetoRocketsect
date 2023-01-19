@@ -1,7 +1,5 @@
-# projeto - stage2.2 - desafio1
+# Projeto Rocketsect - Desafio Avançado - Recriando layout
 **Curso Explorer - Rocketseat**
-
-**Desafio Avançado - Recriando layout**
 
 Design: https://www.figma.com/file/fmGeNonlaiGdyq4C3FSW6Z/Explorer-(Copy)?node-id=16%3A106
 
