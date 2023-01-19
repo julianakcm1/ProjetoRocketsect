@@ -1,4 +1,4 @@
-# Projeto Rocketsect - Desafio Avançado - Recriando layout
+## Projeto Rocketsect - Desafio Avançado - Recriando layout
 **Curso Explorer - Rocketseat**
 
 Design: https://www.figma.com/file/fmGeNonlaiGdyq4C3FSW6Z/Explorer-(Copy)?node-id=16%3A106
