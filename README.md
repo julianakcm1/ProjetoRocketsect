@@ -5,6 +5,12 @@
 
 Design: https://www.figma.com/file/fmGeNonlaiGdyq4C3FSW6Z/Explorer-(Copy)?node-id=16%3A106
 
+<div align="center">
+
+![Captura de tela de 2023-01-18 21-57-46](https://user-images.githubusercontent.com/54086293/213330978-d9c9fde4-6596-47c1-a3ca-11e9346fb943.jpg)
+
+</div>
+
 Nesse desafio, foi recriada uma aplicação, a partir de um layout, para treinar o que foi aprendido até agora no Stage 02.
 
 Por meio do módulo 02 foi possível:
